@@ -29,6 +29,8 @@ div.nav {
     height: 40px;
     margin: 0 auto;
     border-bottom: 2px solid #0266A3;
+    background-color: aliceblue;
+
 }
 
 ul.navlist {
@@ -51,6 +53,7 @@ a.navlist {
 div.works {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
+    background-color: azure;
 }
 
 aside {
@@ -69,4 +72,8 @@ li.works {
     padding-bottom: 2px;
     text-indent: 3px;
     margin-bottom: 2px;
+}
+
+div.profile {
+    background-color: azure;
 }
