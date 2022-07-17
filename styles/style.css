@@ -77,3 +77,16 @@ li.works {
 div.profile {
     background-color: azure;
 }
+
+@media screen and (min-width: 1000px) {
+    html {
+        width: 60%;
+        margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 999px) {
+    html {
+        width: 100%;
+    }
+}
