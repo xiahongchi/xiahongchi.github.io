@@ -80,8 +80,8 @@ div.profile {
 
 @media screen and (min-width: 1000px) {
     html {
-        width: 60%;
-        margin-left: 20%;
+        width: 1000px;
+        margin-left: calc(50% - 500px);
     }
 }
 
@@ -89,4 +89,8 @@ div.profile {
     html {
         width: 100%;
     }
+}
+
+main {
+    width: 100%;
 }
