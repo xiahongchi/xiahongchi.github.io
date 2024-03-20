@@ -75,3 +75,6 @@ My name is Hongchi Xia (夏鸿驰). I'm now an undergraduate student in Computer
 
 </div>
 <!-- paper end -->
+
+# Visitor Map
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=4IP6WfjLU5O0Sc47QGxUkChCyNk6FLiEsjgMORuERYk&cl=ffffff&w=a"></script>
