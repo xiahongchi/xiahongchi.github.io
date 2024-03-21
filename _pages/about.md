@@ -30,7 +30,7 @@ My name is Hongchi Xia (夏鸿驰). I'm now an undergraduate student in Computer
 
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>
-<p>[<a href="https://video2game.github.io/">project</a>] [<a href="">paper</a>] [<a href="">code</a>]</p>
+<p>[<a href="https://video2game.github.io/">project</a>] [<a href="">paper</a>] [<a href="https://github.com/video2game/video2game">code</a>]</p>
 </div>
 
 </div>
