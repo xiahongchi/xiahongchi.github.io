@@ -11,10 +11,11 @@ redirect_from:
 
 <!-- self intro -->
 # Bios
-My name is Hongchi Xia (夏鸿驰). I'm now an undergraduate student in Computer Science at Shanghai Jiao Tong University (SJTU). My research lies in computer vision. I'm also an incoming CS Ph.D. student at University of Illinois Urbana-Champaign (UIUC). Before my Ph.D. journey, I was fortunate to be advised by <a href="https://shenlong.web.illinois.edu/">Prof. Shenlong Wang</a> at UIUC, <a href="https://people.csail.mit.edu/weichium/">Prof. Wei-Chiu Ma</a> at Cornell, <a href="https://xiaolonw.github.io/">Prof. Xiaolong Wang</a> at UCSD and <a href="https://www.mvig.org/">Prof. Cewu Lu</a> at SJTU.
+My name is Hongchi Xia (夏鸿驰). I'm now a first-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign (UIUC). My research lies in computer vision. Before my Ph.D. journey, I was fortunate to be advised by <a href="https://shenlong.web.illinois.edu/">Prof. Shenlong Wang</a> at UIUC, <a href="https://people.csail.mit.edu/weichium/">Prof. Wei-Chiu Ma</a> at Cornell, <a href="https://xiaolonw.github.io/">Prof. Xiaolong Wang</a> at UCSD and <a href="https://www.mvig.org/">Prof. Cewu Lu</a> at SJTU.
 
 # News
-* <b>Feb.2023</b> Two papers "Video2Game" and "WildRGB-D" are accepted to CVPR 2024!
+* <b>Aug.2024</b> Start the PhD journey at UIUC!
+* <b>Feb.2024</b> Two papers "Video2Game" and "WildRGB-D" are accepted to CVPR 2024!
 
 # Publications
 <!-- paper start -->
