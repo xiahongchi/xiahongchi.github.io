@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Hongchi Xia"
 title_separator          : "-"
 name                     : &name "Hongchi Xia"
-description              : &description "Undergraduate student in SJTU"
+description              : &description "UIUC CS Ph.D."
 url                      : https://xiahongchi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiahongchi/xiahongchi.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "avatar.png"
   name             : "Hongchi Xia"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student in SJTU"
-  location         : "Shanghai"
-  employer         : "Shanghai Jiao Tong University"
+  bio              : "CS Ph.D. student at University of Illinois Urbana-Champaign (UIUC)"
+  location         : "Champaign, IL, USA"
+  employer         : "UIUC"
   uri              : # URL
-  email            : "xiahongchi@sjtu.edu.cn" 
+  email            : "hongchix@illinois.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
