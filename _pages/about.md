@@ -11,13 +11,45 @@ redirect_from:
 
 <!-- self intro -->
 # Bios
-My name is Hongchi Xia (夏鸿驰). I'm now a first-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign (UIUC). My research lies in computer vision. Before my Ph.D. journey, I was fortunate to be advised by <a href="https://shenlong.web.illinois.edu/">Prof. Shenlong Wang</a> at UIUC, <a href="https://people.csail.mit.edu/weichium/">Prof. Wei-Chiu Ma</a> at Cornell, <a href="https://xiaolonw.github.io/">Prof. Xiaolong Wang</a> at UCSD and <a href="https://www.mvig.org/">Prof. Cewu Lu</a> at SJTU.
+My name is Hongchi Xia (夏鸿驰). I'm now a first-year Ph.D. student in Computer Science at University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://shenlong.web.illinois.edu/">Prof. Shenlong Wang</a>. 
+<br>
+<br>
+My research lies in 3D computer vision, especially related to 3D reconstruction and simulation. 
+<br>
+<br>
+Before my Ph.D. journey, I was fortunate to be advised by <a href="https://shenlong.web.illinois.edu/">Prof. Shenlong Wang</a> at UIUC, <a href="https://people.csail.mit.edu/weichium/">Prof. Wei-Chiu Ma</a> at Cornell, <a href="https://xiaolonw.github.io/">Prof. Xiaolong Wang</a> at UCSD and <a href="https://www.mvig.org/">Prof. Cewu Lu</a> at SJTU. 
+<br>
+<br>
+I will have an internship at NVIDIA in Summer 2025 at Santa Clara.
+<!-- in <a href="https://mingyuliu.net/">Ming-Yu Liu</a>'s group. -->
 
 # News
+* <b>Apr.2025</b> "DRAWER" is accepted to CVPR 2025! See you in Nashville!
 * <b>Aug.2024</b> Start the PhD journey at UIUC!
 * <b>Feb.2024</b> Two papers "Video2Game" and "WildRGB-D" are accepted to CVPR 2024!
 
-# Publications
+# Selected Publications
+
+<!-- paper start -->
+<div class="paper">
+
+<div class="pimg"> 
+<img src="/images/drawer.gif" width="200" height="140">
+</div>
+
+<div class="ptitle">DRAWER: Digital Reconstruction and Articulation With Environment Realism</div>
+
+<div class="pauthors"> <b>Hongchi Xia</b>, Entong Su, Marius Memmel, Arhan Jain, Raymond Yu, Numfor Mbiziwo-Tiapo, Ali Farhadi, Abhishek Gupta, Shenlong Wang, Wei-Chiu Ma</div>
+
+<div class="pvenue">
+<p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
+<p>[<a href="https://drawer-art.github.io/">project</a>] [<a href="">paper</a>] [<a href="https://github.com/xiahongchi/DRAWER">code</a>]</p>
+</div>
+
+</div>
+<!-- paper end -->
+
+
 <!-- paper start -->
 <div class="paper">
 
