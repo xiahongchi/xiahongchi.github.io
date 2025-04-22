@@ -21,7 +21,7 @@ repository               : "xiahongchi/xiahongchi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar_v2.jpg"
   name             : "Hongchi Xia"
   pronouns         : # example: "she/her"  
   bio              : "CS Ph.D. student at University of Illinois Urbana-Champaign (UIUC)"
