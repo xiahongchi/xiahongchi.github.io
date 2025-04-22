@@ -43,7 +43,7 @@ I will have an internship at NVIDIA in Summer 2025 at Santa Clara.
 
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
-<p>[<a href="https://drawer-art.github.io/">project</a>] [<a href="">paper</a>] [<a href="https://github.com/xiahongchi/DRAWER">code</a>]</p>
+<p>[<a href="https://drawer-art.github.io/">project</a>] [<a href="https://arxiv.org/pdf/2504.15278">paper</a>] [<a href="https://github.com/xiahongchi/DRAWER">code</a>]</p>
 </div>
 
 </div>
