@@ -1,0 +1,20 @@
+current directory: /Users/hongchix/xiahongchi.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/hongchix/xiahongchi.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260210-39544-gl7x3r sitelibdir\=./.gem.20260210-39544-gl7x3r clean
+
+current directory: /Users/hongchix/xiahongchi.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260210-39544-gl7x3r sitelibdir\=./.gem.20260210-39544-gl7x3r
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.6.0/lib' not found
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.6.0/lib' not found
+
+current directory: /Users/hongchix/xiahongchi.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260210-39544-gl7x3r sitelibdir\=./.gem.20260210-39544-gl7x3r install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260210-39544-gl7x3r/racc
+
+current directory: /Users/hongchix/xiahongchi.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260210-39544-gl7x3r sitelibdir\=./.gem.20260210-39544-gl7x3r clean
