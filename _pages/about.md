@@ -48,8 +48,8 @@ Check my Curriculum Vitae <a href="./files/CV_2025_10.pdf">Here</a>.
 <div class="pauthors"> <b>Hongchi Xia</b>, Xuan Li, Zhaoshuo Li, Qianli Ma, Jiashu Xu, Ming-Yu Liu, Yin Cui, Tsung-Yi Lin, Wei-Chiu Ma, Shenlong Wang, Shuran Song, Fangyin Wei</div>
 
 <div class="pvenue">
-<p>Arxiv</p>
-<p>[<a href="https://nvlabs.github.io/sage/">project</a>] [<a href="">paper</a>] [<a href="https://github.com/NVlabs/sage">code</a>] [<a href="https://huggingface.co/datasets/nvidia/SAGE-10k">dataset</a>]</p>
+<p>Arxiv Preprint</p>
+<p>[<a href="https://nvlabs.github.io/sage/">project</a>] [<a href="https://arxiv.org/pdf/2602.10116">paper</a>] [<a href="https://github.com/NVlabs/sage">code</a>] [<a href="https://huggingface.co/datasets/nvidia/SAGE-10k">dataset</a>]</p>
 </div>
 
 
