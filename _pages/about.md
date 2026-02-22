@@ -27,7 +27,7 @@ Check my Curriculum Vitae <a href="./files/CV_2025_10.pdf">Here</a>.
 
 
 ### News
-* <b>Feb.2026</b> Our new agentic scene generation project "SAGE" is released!
+* <b>Feb.2026</b> Our new agentic scene generation project "SAGE" is accepted to CVPR 2026! See you in Denver!
 * <b>Oct.2025</b> "HoloScene" is accepted to NeurIPS 2025! See you in San Diego!
 * <b>May.2025</b> Had my first summer internship at NVIDIA.
 * <b>Apr.2025</b> "DRAWER" is accepted to CVPR 2025! See you in Nashville!
@@ -48,7 +48,7 @@ Check my Curriculum Vitae <a href="./files/CV_2025_10.pdf">Here</a>.
 <div class="pauthors"> <b>Hongchi Xia</b>, Xuan Li, Zhaoshuo Li, Qianli Ma, Jiashu Xu, Ming-Yu Liu, Yin Cui, Tsung-Yi Lin, Wei-Chiu Ma, Shenlong Wang, Shuran Song, Fangyin Wei</div>
 
 <div class="pvenue">
-<p>Arxiv Preprint</p>
+<p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
 <p>[<a href="https://nvlabs.github.io/sage/">project</a>] [<a href="https://arxiv.org/pdf/2602.10116">paper</a>] [<a href="https://github.com/NVlabs/sage">code</a>] [<a href="https://huggingface.co/datasets/nvidia/SAGE-10k">dataset</a>]</p>
 </div>
 
