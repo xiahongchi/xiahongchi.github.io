@@ -22,7 +22,7 @@ My research lies in 3D computer vision, building essential foundations for spati
 I received my bachelor's degree at Shanghai Jiao Tong University (SJTU), and I was fortunate to have research internships advised by <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> at UIUC, <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a> at Cornell, <a href="https://xiaolonw.github.io/">Xiaolong Wang</a> at UCSD and <a href="https://www.mvig.org/">Cewu Lu</a> at SJTU. I was a research intern at <a href="https://research.nvidia.com/labs/dir/">NVIDIA Deep Imagination Research</a> during Summer 2025, where I mainly collaborated with <a href="https://weify627.github.io/">Fangyin Wei</a>.
 <br>
 <br>
-Check my Curriculum Vitae <a href="./files/CV_2025_10.pdf">Here</a>.
+Check my Curriculum Vitae <a href="./files/CV.pdf">Here</a>.
 <br>
 
 
