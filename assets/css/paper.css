@@ -1,5 +1,51 @@
-div.paper {clear:left;margin-top:20px}
-div.pimg {float:left;margin-bottom:10px;padding-left:3px;border-bottom:solid 1px #EEE;}
-div.ptitle {font-size:15px;padding:1px;margin-left:210px;font-weight:bold;}
-div.pauthors {font-size:15px;padding:1px;margin-left:210px;font-style:italic;}
-div.pvenue {font-size:15px;padding:1px;margin-left:210px;}
+div.paper {
+  display: grid;
+  grid-template-columns: 210px 1fr;
+  column-gap: 20px;
+  margin-bottom: 28px;
+  padding-bottom: 28px;
+  border-bottom: 1px solid #eee;
+}
+div.paper:last-of-type {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+div.pimg {
+  grid-column: 1;
+  grid-row: 1 / 4;
+}
+div.pimg img {
+  width: 200px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+div.ptitle {
+  grid-column: 2;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1.4;
+  margin: 0;
+  padding: 0;
+  align-self: start;
+}
+div.pauthors {
+  grid-column: 2;
+  font-size: 14px;
+  font-style: italic;
+  color: #555;
+  margin: 4px 0 0;
+  padding: 0;
+  align-self: start;
+}
+div.pvenue {
+  grid-column: 2;
+  font-size: 14px;
+  color: #555;
+  margin: 4px 0 0;
+  padding: 0;
+  align-self: start;
+}
+div.pvenue p { margin: 3px 0; }

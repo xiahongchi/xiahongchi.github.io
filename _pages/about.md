@@ -11,28 +11,91 @@ redirect_from:
 
 <!-- self intro -->
 ### Bios
-My name is Hongchi Xia (夏鸿驰). 
-I'm now a second-year Ph.D. student at Computer Science at University of Illinois Urbana-Champaign (UIUC), 
-where I collaborate with <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> and <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>.
-<br>
-<br>
-My research lies in 3D computer vision, building essential foundations for spatial intelligence. Previously, I conducted a series of works related to 3D reconstruction and photorealistic re-simulation with grounded physics. Recently, I've gone into 3D generation approach, aiming at addressing the urgent need of rich and diverse 3D data.
-<br>
-<br>
-I received my bachelor's degree at Shanghai Jiao Tong University (SJTU), and I was fortunate to have research internships advised by <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> at UIUC, <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a> at Cornell, <a href="https://xiaolonw.github.io/">Xiaolong Wang</a> at UCSD and <a href="https://www.mvig.org/">Cewu Lu</a> at SJTU. I was a research intern at <a href="https://research.nvidia.com/labs/dir/">NVIDIA Deep Imagination Research</a> during Summer 2025, where I mainly collaborated with <a href="https://weify627.github.io/">Fangyin Wei</a>.
-<br>
-<br>
-Check my Curriculum Vitae <a href="./files/CV.pdf">Here</a>.
-<br>
+<p>My name is Hongchi Xia (夏鸿驰). I'm now a second-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I collaborate with <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> and <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>.</p>
+<p>My research lies in 3D computer vision, building essential foundations for spatial intelligence. Previously, I conducted a series of works related to 3D reconstruction and photorealistic re-simulation with grounded physics. Recently, I've gone into 3D generation, aiming at addressing the urgent need for rich and diverse 3D data.</p>
+<p>Check my Curriculum Vitae <a href="./files/CV.pdf">here</a>.</p>
 
 
 ### News
-* <b>Feb.2026</b> Our new agentic scene generation project "SAGE" is accepted to CVPR 2026! See you in Denver!
-* <b>Oct.2025</b> "HoloScene" is accepted to NeurIPS 2025! See you in San Diego!
-* <b>May.2025</b> Had my first summer internship at NVIDIA.
-* <b>Apr.2025</b> "DRAWER" is accepted to CVPR 2025! See you in Nashville!
-* <b>Aug.2024</b> Start the PhD journey at UIUC!
-* <b>Feb.2024</b> Two papers "Video2Game" and "WildRGB-D" are accepted to CVPR 2024!
+* <span class="news-date">Feb 2026</span> Our new agentic scene generation project "SAGE" is accepted to CVPR 2026! See you in Denver!
+* <span class="news-date">Oct 2025</span> "HoloScene" is accepted to NeurIPS 2025! See you in San Diego!
+* <span class="news-date">May 2025</span> Had my first summer internship at NVIDIA.
+* <span class="news-date">Apr 2025</span> "DRAWER" is accepted to CVPR 2025! See you in Nashville!
+* <span class="news-date">Aug 2024</span> Started the PhD journey at UIUC!
+* <span class="news-date">Feb 2024</span> Two papers "Video2Game" and "WildRGB-D" are accepted to CVPR 2024!
+
+<style>
+/* section headers */
+h3 {
+  margin-top: 32px;
+  margin-bottom: 14px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #eee;
+}
+
+/* news date badges */
+.news-date {
+  display: inline-block;
+  min-width: 74px;
+  background: #f0f4f8;
+  color: #52adc8;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 10px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/* cv entries */
+.cv-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  gap: 0;
+}
+.cv-entry-date {
+  min-width: 160px;
+  color: #888;
+  font-size: 13px;
+  padding-top: 3px;
+  flex-shrink: 0;
+}
+.cv-entry-info { flex: 1; }
+.cv-entry-title { font-weight: bold; font-size: 15px; margin-bottom: 3px; }
+.cv-entry-role { color: #444; font-size: 14px; margin-bottom: 3px; }
+.cv-entry-advisor { color: #666; font-size: 13px; }
+</style>
+
+### Experience
+
+<div class="cv-entry">
+  <div class="cv-entry-date">May 2025 - Feb 2026</div>
+  <div class="cv-entry-info">
+    <div class="cv-entry-title"><a href="https://research.nvidia.com/labs/dir/">NVIDIA Deep Imagination Research</a></div>
+    <div class="cv-entry-role">Research Intern</div>
+    <div class="cv-entry-advisor">Mentor: <a href="https://weify627.github.io/">Fangyin Wei</a>; Manager: <a href="https://mingyuliu.net/">Ming-Yu Liu</a></div>
+  </div>
+</div>
+
+### Education
+
+<div class="cv-entry">
+  <div class="cv-entry-date">Aug 2024 – Present</div>
+  <div class="cv-entry-info">
+    <div class="cv-entry-title"><a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a></div>
+    <div class="cv-entry-role">Ph.D. in Computer Science</div>
+    <div class="cv-entry-advisor">Advised by <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> and <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a></div>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-date">Sep 2020 – May 2024</div>
+  <div class="cv-entry-info">
+    <div class="cv-entry-title"><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></div>
+    <div class="cv-entry-role">B.S. in Computer Science</div>
+  </div>
+</div>
 
 ### Selected Publications [<a href="https://scholar.google.com/citations?user=9iXQ-wsAAAAJ&hl=en">ALL</a>]
 
@@ -51,7 +114,6 @@ Check my Curriculum Vitae <a href="./files/CV.pdf">Here</a>.
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
 <p>[<a href="https://nvlabs.github.io/sage/">project</a>] [<a href="https://arxiv.org/pdf/2602.10116">paper</a>] [<a href="https://github.com/NVlabs/sage">code</a>] [<a href="https://huggingface.co/datasets/nvidia/SAGE-10k">dataset</a>]</p>
 </div>
-
 
 </div>
 <!-- paper end -->
@@ -73,7 +135,6 @@ Check my Curriculum Vitae <a href="./files/CV.pdf">Here</a>.
 <p>[<a href="https://xiahongchi.github.io/HoloScene/">project</a>] [<a href="https://arxiv.org/pdf/2510.05560">paper</a>] [<a href="https://github.com/xiahongchi/HoloScene">code</a>]</p>
 </div>
 
-
 </div>
 <!-- paper end -->
 
@@ -92,7 +153,6 @@ Check my Curriculum Vitae <a href="./files/CV.pdf">Here</a>.
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
 <p>[<a href="https://drawer-art.github.io/">project</a>] [<a href="https://arxiv.org/abs/2504.15278">paper</a>] [<a href="https://github.com/xiahongchi/DRAWER">code</a>]</p>
 </div>
-
 
 </div>
 <!-- paper end -->
