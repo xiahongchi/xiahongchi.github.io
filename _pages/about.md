@@ -117,7 +117,7 @@ h3 {
 
 <div class="ptitle">SAGE: Scalable Agentic 3D Scene Generation for Embodied AI</div>
 
-<div class="pauthors"> <b>Hongchi Xia</b>, Xuan Li, Zhaoshuo Li, Qianli Ma, Jiashu Xu, Ming-Yu Liu, Yin Cui, Tsung-Yi Lin, Wei-Chiu Ma, Shenlong Wang, Shuran Song, Fangyin Wei</div>
+<div class="pauthors"> <b><a href="https://xiahongchi.github.io/">Hongchi Xia</a></b>, <a href="https://xuan-li.github.io/">Xuan Li</a>, <a href="https://mli0603.github.io/">Zhaoshuo Li</a>, <a href="https://qianlim.github.io/">Qianli Ma</a>, <a href="https://cnut1648.github.io/">Jiashu Xu</a>, <a href="https://mingyuliu.net/">Ming-Yu Liu</a>, <a href="https://ycui.me/">Yin Cui</a>, <a href="https://tsungyilin.info/">Tsung-Yi Lin</a>, <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>, <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a>, <a href="https://shurans.github.io/">Shuran Song</a>, <a href="https://weify627.github.io/">Fangyin Wei</a></div>
 
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
@@ -137,7 +137,7 @@ h3 {
 
 <div class="ptitle">HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video</div>
 
-<div class="pauthors"> <b>Hongchi Xia</b>, Chih-Hao Lin, Hao-Yu Hsu, Quentin Leboutet, Katelyn Gao, Michael Paulitsch, Benjamin Ummenhofer, Shenlong Wang</div>
+<div class="pauthors"> <b><a href="https://xiahongchi.github.io/">Hongchi Xia</a></b>, <a href="https://chih-hao-lin.github.io/">Chih-Hao Lin</a>, <a href="https://haoyuhsu.github.io/">Hao-Yu Hsu</a>, <a href="https://www.linkedin.com/in/quentinleboutet/?originalSubdomain=de">Quentin Leboutet</a>, <a href="https://sites.google.com/view/katelyn-gao/home">Katelyn Gao</a>, <a href="https://www.linkedin.com/in/michael-paulitsch/?originalSubdomain=de">Michael Paulitsch</a>, <a href="https://scholar.google.com/citations?user=QGlp5ywAAAAJ&hl=en">Benjamin Ummenhofer</a>, <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></div>
 
 <div class="pvenue">
 <p>Neural Information Processing Systems (NeurIPS), 2025</p>
@@ -156,7 +156,7 @@ h3 {
 
 <div class="ptitle">DRAWER: Digital Reconstruction and Articulation With Environment Realism</div>
 
-<div class="pauthors"> <b>Hongchi Xia</b>, Entong Su, Marius Memmel, Arhan Jain, Raymond Yu, Numfor Mbiziwo-Tiapo, Ali Farhadi, Abhishek Gupta, Shenlong Wang, Wei-Chiu Ma</div>
+<div class="pauthors"> <b><a href="https://xiahongchi.github.io/">Hongchi Xia</a></b>, <a href="https://entongsu.github.io/">Entong Su</a>, <a href="https://memmelma.github.io/">Marius Memmel</a>, <a href="https://arhanjain.github.io/">Arhan Jain</a>, <a href="https://raymondyu5.github.io/">Raymond Yu</a>, <a href="https://www.linkedin.com/in/numfor-mbiziwo-tiapo/">Numfor Mbiziwo-Tiapo</a>, <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>, <a href="https://homes.cs.washington.edu/~abhgupta/">Abhishek Gupta</a>, <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a>, <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a></div>
 
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>
@@ -176,7 +176,7 @@ h3 {
 
 <div class="ptitle">Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video</div>
 
-<div class="pauthors"> <b>Hongchi Xia</b>, Zhi-Hao Lin, Wei-Chiu Ma, Shenlong Wang</div>
+<div class="pauthors"> <b><a href="https://xiahongchi.github.io/">Hongchi Xia</a></b>, <a href="https://zhihao-lin.github.io/">Zhi-Hao Lin</a>, <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>, <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></div>
 
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>
@@ -196,7 +196,7 @@ h3 {
 
 <div class="ptitle">RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos</div>
 
-<div class="pauthors"> <b>Hongchi Xia</b>*, Yang Fu*, Sifei Liu, Xiaolong Wang </div>
+<div class="pauthors"> <b><a href="https://xiahongchi.github.io/">Hongchi Xia</a></b>*, <a href="https://scholar.google.com/citations?user=bioUtz4AAAAJ&hl=en">Yang Fu</a>*, <a href="https://scholar.google.com/citations?user=j4pcHV4AAAAJ&hl=en">Sifei Liu</a>, <a href="https://scholar.google.com/citations?user=Y8O9N_0AAAAJ&hl=en">Xiaolong Wang</a> </div>
 
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>
