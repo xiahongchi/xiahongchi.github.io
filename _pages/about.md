@@ -70,6 +70,15 @@ h3 {
 ### Experience
 
 <div class="cv-entry">
+  <div class="cv-entry-date">May 2026 - Present</div>
+  <div class="cv-entry-info">
+    <div class="cv-entry-title"><a href="https://research.nvidia.com/labs/cosmos-lab/">NVIDIA Cosmos Lab</a></div>
+    <div class="cv-entry-role">Research Intern</div>
+    <div class="cv-entry-advisor">Manager: <a href="https://mingyuliu.net/">Ming-Yu Liu</a></div>
+  </div>
+</div>
+
+<div class="cv-entry">
   <div class="cv-entry-date">May 2025 - Feb 2026</div>
   <div class="cv-entry-info">
     <div class="cv-entry-title"><a href="https://research.nvidia.com/labs/dir/">NVIDIA Deep Imagination Research</a></div>
