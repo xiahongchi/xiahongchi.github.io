@@ -11,12 +11,13 @@ redirect_from:
 
 <!-- self intro -->
 ### Bios
-<p>My name is Hongchi Xia (夏鸿驰). I'm now a second-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I collaborate with <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> and <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>.</p>
+<p>My name is Hongchi Xia (夏鸿驰). I'm now a third-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I collaborate with <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a> and <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>.</p>
 <p>My research lies in 3D computer vision, building essential foundations for spatial intelligence. Previously, I conducted a series of works related to 3D reconstruction and photorealistic re-simulation with grounded physics. Recently, I've gone into 3D generation, aiming at addressing the urgent need for rich and diverse 3D data.</p>
 <p>Check my Curriculum Vitae <a href="./files/CV.pdf">here</a>.</p>
 
 
 ### News
+* <span class="news-date">May 2026</span> Started my second summer internship at NVIDIA.
 * <span class="news-date">Feb 2026</span> Our new agentic scene generation project "SAGE" is accepted to CVPR 2026! See you in Denver!
 * <span class="news-date">Oct 2025</span> "HoloScene" is accepted to NeurIPS 2025! See you in San Diego!
 * <span class="news-date">May 2025</span> Had my first summer internship at NVIDIA.
@@ -74,7 +75,7 @@ h3 {
   <div class="cv-entry-info">
     <div class="cv-entry-title"><a href="https://research.nvidia.com/labs/cosmos-lab/">NVIDIA Cosmos Lab</a></div>
     <div class="cv-entry-role">Research Intern</div>
-    <div class="cv-entry-advisor">Manager: <a href="https://mingyuliu.net/">Ming-Yu Liu</a></div>
+    <div class="cv-entry-advisor">Mentor: <a href="https://qianlim.github.io/">Qianli Ma</a>; Manager: <a href="https://mingyuliu.net/">Ming-Yu Liu</a></div>
   </div>
 </div>
 
