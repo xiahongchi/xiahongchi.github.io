@@ -17,6 +17,7 @@ redirect_from:
 
 
 ### News
+* <span class="news-date">Sep 2026</span> Our new feed-forward interactive scene reconstruction paper Fire3D is released!
 * <span class="news-date">May 2026</span> Started my second summer internship at NVIDIA.
 * <span class="news-date">Feb 2026</span> Our new agentic scene generation project "SAGE" is accepted to CVPR 2026! See you in Denver!
 * <span class="news-date">Oct 2025</span> "HoloScene" is accepted to NeurIPS 2025! See you in San Diego!
@@ -108,6 +109,26 @@ h3 {
 </div>
 
 ### Selected Publications [<a href="https://scholar.google.com/citations?user=9iXQ-wsAAAAJ&hl=en">ALL</a>]
+
+
+<!-- paper start -->
+<div class="paper">
+
+<div class="pimg"> 
+<img class="pimg-fire3d" src="/images/Fire3D.gif" width="200">
+</div>
+
+<div class="ptitle">Fire3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute</div>
+
+<div class="pauthors"> <b><a href="https://xiahongchi.github.io/">Hongchi Xia</a></b>, <a href="https://tianhang-cheng.github.io/">Tianhang Cheng</a>, <a href="https://www.cs.cornell.edu/~weichiu/">Wei-Chiu Ma</a>, <a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></div>
+
+<div class="pvenue">
+<p>Arxiv Preprint</p>
+<p>[<a href="https://xiahongchi.github.io/Fire3D/">project</a>] [<a href="https://arxiv.org/pdf/2609.08848">paper</a>] [<a href="https://github.com/xiahongchi/Fire3D">code</a>] [<a href="https://huggingface.co/hongchi/Fire3D">model</a>]</p>
+</div>
+
+</div>
+<!-- paper end -->
 
 <!-- paper start -->
 <div class="paper">
